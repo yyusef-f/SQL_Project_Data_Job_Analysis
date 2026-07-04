@@ -6,7 +6,7 @@ Dive into the data job market! This project focuses on Data Analyst
 roles, exploring 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where
 high demand meets high salary — all uncovered through SQL.
 
-🔍 SQL queries used in this project: [SQL Queries folder](./SQL%20Queries/)
+🔍 SQL queries used in this project: [project_sql](project_sql/)
 
 ## Background
 
