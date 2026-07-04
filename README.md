@@ -379,26 +379,6 @@ Snowflake, Azure, or Looker for standing out and commanding a higher
 salary. It also reinforced the value of continuous learning in a field
 where in-demand tools keep evolving.
 
----
-
-## Repository Structure
-
-```
-SQL_Project_Data_Job_Analysis/
-│── README.md
-│── SQL Queries/
-│   │── 1_top_paying_jobs.sql
-│   │── 2_top_paying_job_skills.sql
-│   │── 3_top_demanded_skills.sql
-│   │── 4_top_paying_skills.sql
-│   └── 5_optimal_skills.sql
-│── Dataset/
-│   └── [Insert dataset file name(s) here]
-│── Images/
-│   └── [Insert chart/screenshot files here, if any]
-└── Documentation/
-    └── [Insert any additional docs here, if applicable]
-```
 
 ## Author
 
