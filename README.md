@@ -384,6 +384,6 @@ where in-demand tools keep evolving.
 
 **Name:** `Youssef El Marghany`
 
-**GitHub:** `https://github.com/yyusef-f`
+**GitHub:** [yyusef-f](https://github.com/yyusef-f)
 
-**LinkedIn:** `https://www.linkedin.com/in/youssef-el-marghany-592a55375`
+**LinkedIn:** [Youssef El Marghany](https://www.linkedin.com/in/youssef-el-marghany-592a55375)
