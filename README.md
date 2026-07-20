@@ -15,7 +15,7 @@ effectively, this project set out to pinpoint top-paying and in-demand
 skills, streamlining the process of finding optimal roles for aspiring
 and current data analysts.
 
-The data is sourced from `[Insert dataset source here]` and is packed
+The data is sourced from and is packed
 with insights on job titles, salaries, locations, and essential skills.
 
 ### The questions this project answers through SQL:
